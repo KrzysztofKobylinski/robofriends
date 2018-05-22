@@ -3,6 +3,7 @@
 
 ### Functionality:
 
-* Aplikacja is displaying card components with robots. 
+* App is displaying Card components with different robots. 
 * Robot list is fetched from RoboApi.
-* SearchBox is connected to CardList, CardList is updating in real time.
+* SearchBox is connected to CardList.
+* CardList is updating in real time.
