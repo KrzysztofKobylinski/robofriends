@@ -1,4 +1,4 @@
-# Robofriends
+# Robofriends http://robofriendskszysieg.herokuapp.com/
 ## App made in React.
 
 ### Functionality:
