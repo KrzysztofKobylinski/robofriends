@@ -11,7 +11,7 @@ import { searchRobots } from "./reducers";
 const store = createStore(searchRobots);
 
 ReactDOM.render(
-  <Provider store={store} >
+  <Provider store={store}>
     <App />
   </Provider>,
   document.getElementById("root")
